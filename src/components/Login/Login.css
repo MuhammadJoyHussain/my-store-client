@@ -1,0 +1,12 @@
+
+.signInButton{
+    background-color: rgb(218, 171, 15);
+    color: white;
+    border: none;
+    margin: 15% 40%;
+    border-radius: 3px;
+    width: 200px;
+    height: 50px;
+    font-weight: 700;
+}
+
